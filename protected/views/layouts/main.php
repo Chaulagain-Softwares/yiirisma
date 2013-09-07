@@ -135,11 +135,11 @@
 		</div>
 		<footer>
 			<p class="pull-left">
-				&copy; <a href="http://rkchaulagain.com.np" target="_blank">Ramkrishna
+				<a href="http://rkchaulagain.com.np" target="_blank">Ramkrishna
 					Chaulagain</a> 2012
 			</p>
 			<p class="pull-right">
-				Powered by: <a href="http://rkchaulagain.com.np/yiirisma">Yiirisma</a>
+				Powered by: <a href="https://github.com/Chaulagain-Softwares/yiirisma">Yiirisma</a>
 			</p>
 		</footer>
 	</div>
