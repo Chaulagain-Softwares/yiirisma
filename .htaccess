@@ -1,0 +1,7 @@
+RewriteEngine on
+#enables you to access PHP files with HTML extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# otherwise forward it to index.php
+RewriteRule . index.php
